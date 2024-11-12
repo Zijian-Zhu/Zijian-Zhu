@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Zijian-Zhu
 - 👀 I’m interested in Computer science and data science.
-- 🌱 I’m a recent graudated CS major bachelor student.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m a graudated CS major bachelor student from Rutgers.
+- 💞️ I’m working in Alluxio.
 - 📫 How to reach me: jackzhu19991110@gmail.com
 - btw I like video games
 <!---
